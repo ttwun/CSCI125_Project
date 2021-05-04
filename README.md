@@ -302,14 +302,6 @@ We hope we solved your problem. Goodbye!
 
 ```
 
-### Example 4: Sample Problem Solving
-
-```java
-A ball is thrown up into the air with an initial velocity of 12.0 m/s. 
-How long will it be in air when it reaches to the max height?
-
-```
-
 ### Conclusion
 
 The objective of this project is to solve kinematic equations in an easy and precise way by implementing Java programming. In this project, I implemented several ways to solve for an unknown in kinematic equations: two ways each for final displacement, initial velocity, final velocity, and time as well as three ways for finding acceleration.
